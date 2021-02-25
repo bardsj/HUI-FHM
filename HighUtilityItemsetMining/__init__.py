@@ -1,1 +1,1 @@
-from HUIMining import FHM
+from .HUIMining import FHM
