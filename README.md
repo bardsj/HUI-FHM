@@ -13,7 +13,7 @@ Uses only the Python standard library.
 ## Usage
 
 ```
->>> from HighUtilityItemsetMining.HUIMining import FHM
+>>> from HighUtilityItemsetMining import FHM
 >>> transactions = [
 ...     (1,[('a',3),('b',2)]),
 ...     (2,[('a',1)]),
