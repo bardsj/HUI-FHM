@@ -1,0 +1,1 @@
+from HUIMining import FHM
